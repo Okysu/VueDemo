@@ -41,7 +41,7 @@ import {
 } from "naive-ui";
 // 引入axios
 import axios from "axios";
-axios.defaults.baseURL = "http://124.222.64.247:8083";
+axios.defaults.baseURL = "url";
 // 引入自定义组件
 import Noteapi from "@/components/Note-api.vue"; // 通知组件
 import SideBar from "./components/SideBar.vue"; // 侧边栏组件
