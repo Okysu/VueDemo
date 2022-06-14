@@ -13,6 +13,7 @@
       :tab="panel.name"
       :name="panel.index"
       scrolling-y="auto"
+      display-directive="show"
     >
       <iframe
         frameborder="0"
